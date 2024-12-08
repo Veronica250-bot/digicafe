@@ -1,0 +1,15 @@
+{
+    "palaveri": {
+        "aihe": "Oppimistehtävä 3a - JSON ja Fetch",
+        "osallistujien_lkm": 4,
+        "osallistujat": [
+            "Matti Meikäläinen",
+            "Maija Mallikas",
+            "Pekka Pouta",
+            "Anna Aalto"
+        ],
+        "paikka": "Teams",
+        "alkaminen": "2024-12-08T10:00:00",
+        "kesto": "1h 30min"
+    }
+}
